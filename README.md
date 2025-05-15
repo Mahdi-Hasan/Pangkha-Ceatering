@@ -19,7 +19,7 @@ This layered architecture enforces the Dependency Inversion Principle, ensuring 
 
 ### Technical Stack Highlights
 
-- **Framework**: .NET 8 with minimal API endpoints
+- **Framework**: .NET 9
 - **Architecture**: Clean Architecture with strict boundary enforcement
 - **Design Pattern**: CQRS implementation with MediatR for command/query separation
 - **Authentication**: JWT token-based authentication with Firebase OTP verification
